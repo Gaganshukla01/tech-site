@@ -1,0 +1,51 @@
+.nav-list{
+flex-direction: column;
+text-align: center;
+justify-content: center;
+}
+.nav-list li a{
+    padding: 34pxpx;
+}
+.nav-list .logo img{
+    width: 13%;
+}
+.navbar{
+    flex-direction: column;
+    height: 433px;
+    transition: all 1.2s ease-out ;
+}
+.rightNav{
+    text-align: center;
+}
+#search{
+    width: 100%;
+}
+.burger{
+    display: block;
+    
+    cursor: pointer;
+}
+.hnav{
+    height: 72px;
+}
+.v-class{
+    visibility: hidden;
+}
+.box-main{
+    flex-direction: column-reverse;
+    max-width: 100%;
+     
+}
+.firstsection{
+    height: 50%;
+}
+.secright{
+    flex-direction: column-reverse;
+    height: 550px;
+} 
+.para{
+    padding: 0px;
+}
+.thumbnail img{
+    width: 93px;
+}
